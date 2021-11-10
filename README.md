@@ -1,2 +1,2 @@
 # cyclingdataproject
-Scraping some stats from the UCI World Tour
+Scraping some stats from the UCI World Tour.
