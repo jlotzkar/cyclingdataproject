@@ -1,4 +1,4 @@
 # cyclingdataproject
 Scraping some stats from the UCI World Tour.
 
-Dataset for UCI database.
+Dataset will be pulled from UCI database.
